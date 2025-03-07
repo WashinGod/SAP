@@ -1,4 +1,6 @@
-
+#GitHub - https://github.com/WashinGod
+#Coder - WashinGod
+#Quests? Telegram - https:/WashinGod.t.me
 import psutil
 import os
 

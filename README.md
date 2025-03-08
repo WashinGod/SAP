@@ -25,5 +25,12 @@ What is super all process with this utility you can view absolutely ALL processe
 3. Then unzip the project to the root memory of your phone
 4. Enter the command ``` python SuperAllProcess.py ```
 5. Use it!
+ # Advantages of this utility
+1. You can use this utility without downloading third-party modules!
+2. Very easy installation
+3. Close processes FORCED
+4. Get all the information about your PC
+5. No need to grant rights or access for this utility
+6. Easy and clear interface and also pleasant
 # 🔚 End
 I got around to updating my connection with me telegram - https://washingod.t.me

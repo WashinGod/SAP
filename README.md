@@ -32,5 +32,7 @@ What is super all process with this utility you can view absolutely ALL processe
 4. Get all the information about your PC
 5. No need to grant rights or access for this utility
 6. Easy and clear interface and also pleasant
+# Useful links
+Telegram Channel - goodperexod.t.me
 # 🔚 End
 I got around to updating my connection with me telegram - https://washingod.t.me

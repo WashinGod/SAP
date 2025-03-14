@@ -1,8 +1,8 @@
 ### SYSTEM PROCESS
 
-# PC BILD
+# 🎉 PC BILD
 pc build new version is based on the module PyQt5 it has new functions such as: viewing processor load
-# System Process Lazer
+# ❗ System Process Lazer
 new build with new design module pystyle
 # 🚀 Update
 Script update!
